@@ -744,7 +744,9 @@
                                                         </span>
                                                         <div class="form-line">
                                                             <select name="cod_rol" id="">
-                                                                <option value="CR001" disable>Empleado</option>
+                                                                <option value="CR001" disable>Cliente</option>
+                                                                <option value="CR002" disable>Empleado</option>
+                                                                
                                                             </select>
                                                         </div>
                                                     </div>
